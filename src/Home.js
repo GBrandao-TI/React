@@ -10,6 +10,9 @@ function Home() {
                 <li>
                     <Link to="/Atividade01">Atividade 1 e 2</Link>
                 </li>
+                <li>
+                    <Link to="/Atividade03">Atividade 3</Link>
+                </li>
             </ul>
         </nav>
     </div>
