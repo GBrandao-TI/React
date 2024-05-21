@@ -13,6 +13,9 @@ function Home() {
                 <li>
                     <Link to="/Atividade03">Atividade 3</Link>
                 </li>
+                <li>
+                  <Link to="/Atividade05"> Atividade05</Link>
+                </li>
             </ul>
         </nav>
     </div>
